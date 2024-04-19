@@ -3,6 +3,7 @@ Pod::Spec.new do |s|
 	s.version = '7.3.5'
 	s.summary = 'An elegant messages UI library for iOS.'
 	s.license = 'MIT'
+	s.homepage = 'MIT'
 	s.platform = :ios, '13.0'
 
 	s.author = 'Jesse Squires'
